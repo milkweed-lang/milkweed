@@ -7,6 +7,6 @@
     "type": "git",
     "url": "git+https://github.com/milkweed-lang/milkweed.git"
   },
-  "homepage": "https://github.com/milkweed-lang/milkweed",
+  "homepage": "https://milkweed.dev",
   "files": ["README.md", "LICENSE-MIT", "LICENSE-APACHE"]
 }
